@@ -7,7 +7,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=rosalesberrospiu-wq&label=Profile%20Views&color=0e75ba&style=flat" alt="Views" />
 </p>
-### 🚀 Mis Habilidades
+#🚀 Mis Habilidades
 
 <p align="left">
   <a href="https://skillicons.dev">
