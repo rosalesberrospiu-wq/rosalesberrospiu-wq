@@ -1,4 +1,4 @@
-# Hi there, I'm Ulises! 👋
+# ¡Bienvenido a mi perfil! Soy Ulises 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&width=435&lines=Data+Science+Student;Computer+Vision+Enthusiast;Machine+Learning+Developer" alt="Typing SVG" />
